@@ -44,3 +44,5 @@
 ![Fluig](https://img.shields.io/badge/Fluig-12C7CE?style=for-the-badge&logo=totvs&logoColor=white)
 
 </p>
+
+![snakeAnimation](https://github.com/carloslopes19/carloslopes19/blob/output/github-snake.svg)
